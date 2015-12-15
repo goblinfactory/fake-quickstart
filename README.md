@@ -8,6 +8,7 @@ Minimal getting started Sandbox for testing fsharp fake scripts.
 
 ## running the fake build scripts
 - Edit fake.fsx, then run ```$> fake {enter}```, that will run the fsx script.
+ (will output the text below, or similar, to screen and create a similar build.log file, in xml, in the root.)
 
 # typical hello world output
 
